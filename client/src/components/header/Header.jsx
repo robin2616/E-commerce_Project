@@ -85,7 +85,7 @@ const Header = () => {
                             <NavLink to="/" className="flex items-center gap-1">
                                 <BiHomeSmile className="text-[22px]" />
                                 <span className="text-[18px] hidden md:block lg:block group-hover:text-slate-700">
-                                    Home
+                                    dsafadf
                                 </span>
                             </NavLink>
                         </div>
